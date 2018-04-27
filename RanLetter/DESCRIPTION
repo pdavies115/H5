@@ -1,0 +1,10 @@
+Package: RanLetter
+Type: Package
+Title: Random Letter Generation
+Version: 1.0
+Date: 2018-04-26
+Author: Paul Davies
+Maintainer: <pdavies2@yahoo.com>
+Description: This package randomly generates one letter from the English alphabet.
+License: N/A
+RoxygenNote: 6.0.1
